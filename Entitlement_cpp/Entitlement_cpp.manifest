@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Sajith Subramanian",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"5012f2e5-e8cf-466c-b253-01dbea9c3b51",
+	"version":	"1",
+	"runOnStartup":	false,
+	"sourcewindows":	"Entitlement_cpp.vcxproj",
+	"sourcemac":	"Entitlement_cpp.xcodeproj"
+}

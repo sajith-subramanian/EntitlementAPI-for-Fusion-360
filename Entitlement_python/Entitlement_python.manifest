@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"e9ca919c-9f81-4178-9ae9-04a1f24e3a6a",
+	"author":	"Sajith Subramanian",
+	"description":	{
+		"":	""
+	},
+	"version":	"1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
